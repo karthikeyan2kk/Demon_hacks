@@ -11,3 +11,8 @@ build/
 .git/
 .vscode/
 .idea/
+.env
+.env.*
+frontend/.env.local.mapbox
+backend/.env
+node_modules
